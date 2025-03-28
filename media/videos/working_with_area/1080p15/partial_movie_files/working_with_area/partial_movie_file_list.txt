@@ -1,3 +1,7 @@
 # This file is used internally by FFMPEG.
 file 'file:C:/Dev/vertex/Python/Manim/media/videos/working_with_area/1080p15/partial_movie_files/working_with_area/3009363096_1754310298_2241935664.mp4'
 file 'file:C:/Dev/vertex/Python/Manim/media/videos/working_with_area/1080p15/partial_movie_files/working_with_area/3263469400_1754310298_951100458.mp4'
+file 'file:C:/Dev/vertex/Python/Manim/media/videos/working_with_area/1080p15/partial_movie_files/working_with_area/3263469400_3058368378_1619474933.mp4'
+file 'file:C:/Dev/vertex/Python/Manim/media/videos/working_with_area/1080p15/partial_movie_files/working_with_area/3263469400_2408024828_94054077.mp4'
+file 'file:C:/Dev/vertex/Python/Manim/media/videos/working_with_area/1080p15/partial_movie_files/working_with_area/3263469400_1386332188_171409778.mp4'
+file 'file:C:/Dev/vertex/Python/Manim/media/videos/working_with_area/1080p15/partial_movie_files/working_with_area/3263469400_2408024828_3988205530.mp4'
