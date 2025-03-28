@@ -7,9 +7,9 @@
 	],
 	"build_systems": [
 		{
-			"name": "Build - High",
+			"name": "High",
 			"cmd": ["manim", "-pqh", "$file"],
-			"selector": "source.python"
+			"selector": "source.python",
 		}
 	]
 }

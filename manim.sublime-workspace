@@ -4,6 +4,90 @@
 		"selected_items":
 		[
 			[
+				"cd",
+				"cmd"
+			],
+			[
+				"n",
+				"\"name\""
+			],
+			[
+				"bu",
+				"\"build_systems\""
+			],
+			[
+				"circle",
+				"circleup"
+			],
+			[
+				"red",
+				"RED"
+			],
+			[
+				"get",
+				"get_center"
+			],
+			[
+				"la",
+				"last_line"
+			],
+			[
+				"sinc",
+				"sin_cur"
+			],
+			[
+				"or",
+				"origin"
+			],
+			[
+				"rem",
+				"remove_updater"
+			],
+			[
+				"move",
+				"move_around_circle"
+			],
+			[
+				"poi",
+				"point_from_proportion"
+			],
+			[
+				"point",
+				"point_from_proportion"
+			],
+			[
+				"colo",
+				"color="
+			],
+			[
+				"radi",
+				"radius="
+			],
+			[
+				"cir",
+				"circle2"
+			],
+			[
+				"ci",
+				"Circle"
+			],
+			[
+				"add",
+				"add_circle"
+			],
+			[
+				"Matht",
+				"MathTex"
+			],
+			[
+				"dot",
+				"dot_to_curve_line_cos"
+			],
+			[
+				"dot_to_curve_line_",
+				"dot_to_curve_line_sin"
+			],
+			[
 				"sele",
 				"\"selector\""
 			],
@@ -57,10 +141,6 @@
 			],
 			[
 				"ame",
-				"extra_addons_menu"
-			],
-			[
-				"add",
 				"extra_addons_menu"
 			],
 			[
@@ -343,28 +423,8 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "project.py",
-			"settings":
-			{
-				"buffer_size": 3870,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			},
-			"undo_stack":
-			[
-				[
-					1,
-					1,
-					"revert",
-					null,
-					"AgAAAAAAAAAAAAAAAAAAAAAAAAC/CwAAZnJvbSBtYW5pbSBpbXBvcnQgKgoKY2xhc3MgU2luZUN1cnZlVW5pdENpcmNsZShTY2VuZSk6CiAgICAjIGNvbnRyaWJ1dGVkIGJ5IGhlZWppbl9wYXJrLCBodHRwczovL2luZm9ncmFwaC50aXN0b3J5LmNvbS8yMzAKICAgIGRlZiBjb25zdHJ1Y3Qoc2VsZik6CiAgICAgICAgc2VsZi5zaG93X2F4aXMoKQogICAgICAgIHNlbGYuc2hvd19jaXJjbGUoKQogICAgICAgIHNlbGYubW92ZV9kb3RfYW5kX2RyYXdfY3VydmUoKQogICAgICAgIHNlbGYud2FpdCgpCgogICAgZGVmIHNob3dfYXhpcyhzZWxmKToKICAgICAgICB4X3N0YXJ0ID0gbnAuYXJyYXkoWy01LC0zLDBdKQogICAgICAgIHhfZW5kID0gbnAuYXJyYXkoWzYsLTMsMF0pCgogICAgICAgIHlfc3RhcnQgPSBucC5hcnJheShbLTQsLTUsMF0pCiAgICAgICAgeV9lbmQgPSBucC5hcnJheShbLTQsNiwwXSkKCiAgICAgICAgeF9heGlzID0gTGluZSh4X3N0YXJ0LCB4X2VuZCkKICAgICAgICB5X2F4aXMgPSBMaW5lKHlfc3RhcnQsIHlfZW5kKQoKICAgICAgICBzZWxmLmFkZCh4X2F4aXMsIHlfYXhpcykKICAgICAgICBzZWxmLmFkZF94X2xhYmVscygpCiAgICAgICAgc2VsZi5hZGRfeV9sYWJlbHMoKQoKICAgICAgICBzZWxmLm9yaWdpbl9wb2ludCA9IG5wLmFycmF5KFstNCwtMywwXSkKICAgICAgICBzZWxmLmN1cnZlX3N0YXJ0ID0gbnAuYXJyYXkoWy0zLC0zLDBdKQoKICAgIGRlZiBhZGRfeF9sYWJlbHMoc2VsZik6CiAgICAgICAgeF9sYWJlbHMgPSBbCiAgICAgICAgICAgIE1hdGhUZXgociJccGkiKSwgTWF0aFRleChyIjIgXHBpIiksCiAgICAgICAgICAgIE1hdGhUZXgociIzIFxwaSIpLCBNYXRoVGV4KHIiNCBccGkiKQogICAgICAgIF0KCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UobGVuKHhfbGFiZWxzKSk6CiAgICAgICAgICAgIHhfbGFiZWxzW2ldLm5leHRfdG8obnAuYXJyYXkoWy0xICsgMippLCAtMiwgMF0pLCBET1dOKQogICAgICAgICAgICBzZWxmLmFkZCh4X2xhYmVsc1tpXSkKCiAgICBkZWYgYWRkX3lfbGFiZWxzKHNlbGYpOgogICAgICAgIHlfbGFiZWxzID0gWwogICAgICAgICAgICBNYXRoVGV4KHIiXHBpIiksIE1hdGhUZXgociIyIFxwaSIpLAogICAgICAgICAgICBNYXRoVGV4KHIiMyBccGkiKSwgTWF0aFRleChyIjQgXHBpIikKICAgICAgICBdCgogICAgICAgIGZvciBpIGluIHJhbmdlKGxlbih5X2xhYmVscykpOgogICAgICAgICAgICB5X2xhYmVsc1tpXS5uZXh0X3RvKG5wLmFycmF5KFstNCwgMippLCAwXSksIExFRlQpCiAgICAgICAgICAgIHNlbGYuYWRkKHlfbGFiZWxzW2ldKQoKICAgIGRlZiBzaG93X2NpcmNsZShzZWxmKToKICAgICAgICBjaXJjbGUgPSBDaXJjbGUocmFkaXVzPTEpCiAgICAgICAgY2lyY2xlLm1vdmVfdG8oc2VsZi5vcmlnaW5fcG9pbnQpCiAgICAgICAgc2VsZi5hZGQoY2lyY2xlKQogICAgICAgIHNlbGYuY2lyY2xlID0gY2lyY2xlCgogICAgZGVmIG1vdmVfZG90X2FuZF9kcmF3X2N1cnZlKHNlbGYpOgogICAgICAgIG9yYml0ID0gc2VsZi5jaXJjbGUKICAgICAgICBvcmlnaW5fcG9pbnQgPSBzZWxmLm9yaWdpbl9wb2ludAoKICAgICAgICBkb3QgPSBEb3QocmFkaXVzPTAuMDgsIGNvbG9yPVlFTExPVykKICAgICAgICBkb3QubW92ZV90byhvcmJpdC5wb2ludF9mcm9tX3Byb3BvcnRpb24oMCkpCiAgICAgICAgc2VsZi50X29mZnNldCA9IDAuMgogICAgICAgIHJhdGUgPSAwLjI1CgogICAgICAgIGRlZiBnb19hcm91bmRfY2lyY2xlKG1vYiwgZHQpOgogICAgICAgICAgICBzZWxmLnRfb2Zmc2V0ICs9IChkdCAqIHJhdGUpCiAgICAgICAgICAgIHByaW50KHNlbGYudF9vZmZzZXQpCiAgICAgICAgICAgIG1vYi5tb3ZlX3RvKG9yYml0LnBvaW50X2Zyb21fcHJvcG9ydGlvbihzZWxmLnRfb2Zmc2V0ICUgMSkpCgogICAgICAgIGRlZiBnZXRfbGluZV90b19jaXJjbGUoKToKICAgICAgICAgICAgcmV0dXJuIExpbmUob3JpZ2luX3BvaW50LCBkb3QuZ2V0X2NlbnRlcigpLCBjb2xvcj1CTFVFKQoKICAgICAgICBkZWYgZ2V0X2xpbmVfdG9fY3VydmUoKToKICAgICAgICAgICAgeCA9IHNlbGYuY3VydmVfc3RhcnRbMF0gKyBzZWxmLnRfb2Zmc2V0ICogNAogICAgICAgICAgICB5ID0gZG90LmdldF9jZW50ZXIoKVsxXQogICAgICAgICAgICByZXR1cm4gTGluZShkb3QuZ2V0X2NlbnRlcigpLCBucC5hcnJheShbeCx5LDBdKSwgY29sb3I9WUVMTE9XX0EsIHN0cm9rZV93aWR0aD0yICkKCgogICAgICAgIHNlbGYuY3VydmUgPSBWR3JvdXAoKQogICAgICAgIHNlbGYuY3VydmUuYWRkKExpbmUoc2VsZi5jdXJ2ZV9zdGFydCxzZWxmLmN1cnZlX3N0YXJ0KSkKICAgICAgICBkZWYgZ2V0X2N1cnZlKCk6CiAgICAgICAgICAgIGxhc3RfbGluZSA9IHNlbGYuY3VydmVbLTFdCiAgICAgICAgICAgIHggPSBzZWxmLmN1cnZlX3N0YXJ0WzBdICsgc2VsZi50X29mZnNldCAqIDQKICAgICAgICAgICAgeSA9IGRvdC5nZXRfY2VudGVyKClbMV0KICAgICAgICAgICAgbmV3X2xpbmUgPSBMaW5lKGxhc3RfbGluZS5nZXRfZW5kKCksbnAuYXJyYXkoW3gseSwwXSksIGNvbG9yPVlFTExPV19EKQogICAgICAgICAgICBzZWxmLmN1cnZlLmFkZChuZXdfbGluZSkKCiAgICAgICAgICAgIHJldHVybiBzZWxmLmN1cnZlCgogICAgICAgIGRvdC5hZGRfdXBkYXRlcihnb19hcm91bmRfY2lyY2xlKQoKICAgICAgICBvcmlnaW5fdG9fY2lyY2xlX2xpbmUgPSBhbHdheXNfcmVkcmF3KGdldF9saW5lX3RvX2NpcmNsZSkKICAgICAgICBkb3RfdG9fY3VydmVfbGluZSA9IGFsd2F5c19yZWRyYXcoZ2V0X2xpbmVfdG9fY3VydmUpCiAgICAgICAgc2luZV9jdXJ2ZV9saW5lID0gYWx3YXlzX3JlZHJhdyhnZXRfY3VydmUpCgogICAgICAgIHNlbGYuYWRkKGRvdCkKICAgICAgICBzZWxmLmFkZChvcmJpdCwgb3JpZ2luX3RvX2NpcmNsZV9saW5lLCBkb3RfdG9fY3VydmVfbGluZSwgc2luZV9jdXJ2ZV9saW5lKQogICAgICAgIHNlbGYud2FpdCg4LjUpCgogICAgICAgIGRvdC5yZW1vdmVfdXBkYXRlcihnb19hcm91bmRfY2lyY2xlKQAAAAAAAAAAHg8AAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAQgEAAAAAAABCAQAAAAAAAAAAAAAAAPC/"
-				]
-			]
-		}
 	],
-	"build_system": "",
+	"build_system": "Packages/User/manim.sublime-build",
 	"build_system_choices":
 	[
 		[
@@ -848,12 +908,36 @@
 		"selected_items":
 		[
 			[
-				"save",
-				"Project: Save As"
+				"pro",
+				"Project: Add Folder"
+			],
+			[
+				"",
+				"Build With: Python - Syntax Check"
+			],
+			[
+				"RENAM",
+				"File: Rename File"
 			],
 			[
 				"vpf",
 				"View Package File"
+			],
+			[
+				"renam",
+				"File: Rename File"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"rename",
+				"File: Rename File"
+			],
+			[
+				"save",
+				"Project: Save As"
 			],
 			[
 				"insta",
@@ -873,10 +957,6 @@
 			],
 			[
 				"lis",
-				"Package Control: List Packages"
-			],
-			[
-				"list",
 				"Package Control: List Packages"
 			],
 			[
@@ -908,10 +988,6 @@
 				"Snippet: Raylib Main Function Snippet"
 			],
 			[
-				"",
-				"Build: Cancel"
-			],
-			[
 				"nbs",
 				"PackageDev: New Build System"
 			],
@@ -934,10 +1010,6 @@
 			[
 				"ins",
 				"Package Control: Install Package"
-			],
-			[
-				"renam",
-				"File: Rename File"
 			],
 			[
 				"ren",
@@ -1052,12 +1124,21 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Dev/vertex/Python Projects/Manim"
+		"/C/Dev/vertex/Python/Manim"
 	],
 	"file_history":
 	[
-		"/C/Dev/vertex/Python Projects/Manim/manim.sublime-project",
+		"/C/Dev/vertex/Python/Manim/demo.py",
+		"/C/Dev/vertex/Python/Manim/manim.sublime-project",
+		"/C/Dev/vertex/Python/Manim/working_with_area.py",
+		"/C/Dev/vertex/Python/Manim/cos_sin_curve_copy.py",
+		"/C/Dev/vertex/Python Projects/Manim/projectcopy.py",
+		"/C/Dev/vertex/Python Projects/Manim/project.py",
+		"/D/scv.py",
+		"/C/Dev/vertex/Python Projects/Manim/demo.py",
+		"/C/tools/Manim/Lib/site-packages/manim/mobject/mobject.py",
 		"/C/Users/SWAPNIL AKHADE/AppData/Roaming/Sublime Text/Packages/User/manim.sublime-build",
+		"/C/Dev/vertex/Python Projects/Manim/manim.sublime-project",
 		"/C/Dev/vertex/Python Projects/project.py",
 		"/C/Users/SWAPNIL AKHADE/AppData/Roaming/Sublime Text/Packages/LSP-json/schemas/sublime-build.json",
 		"/C/Users/SWAPNIL AKHADE/AppData/Roaming/Sublime Text/Packages/Java/Ant.sublime-build",
@@ -1174,20 +1255,11 @@
 		"/C/Users/SWAPNIL AKHADE/OneDrive/Desktop/MITAOE College Work/DT/Vivek Website Work/BACKGROUND.webp",
 		"/C/Users/SWAPNIL AKHADE/OneDrive/Desktop/MITAOE College Work/DT/Vivek Website Work/swapnil/index.html",
 		"/C/dev/vertex/filehandle.h",
-		"/C/dev/vertex/csvtest.c",
-		"/C/Users/SWAPNIL AKHADE/AppData/Roaming/Sublime Text/Packages/User/Default (Windows).sublime-keymap",
-		"/C/Users/SWAPNIL AKHADE/AppData/Roaming/Sublime Text/Packages/Default/Default (Windows).sublime-keymap",
-		"/C/dev/git_test/main.c",
-		"/C/Users/SWAPNIL AKHADE/AppData/Roaming/Sublime Text/Packages/User/interactive.sublime-build",
-		"/C/dev/vertex/main.c",
-		"/C/Users/SWAPNIL AKHADE/AppData/Roaming/Sublime Text/Packages/C++/C Single File.sublime-build",
-		"/C/Users/SWAPNIL AKHADE/AppData/Roaming/Sublime Text/Packages/Objective-C.sublime-package",
-		"/C/Users/SWAPNIL AKHADE/OneDrive/Desktop/MITAOE College Work/DT/Website new/login.html",
-		"/C/Users/SWAPNIL AKHADE/OneDrive/Desktop/MITAOE College Work/DT/Website new/styles.css"
+		"/C/dev/vertex/csvtest.c"
 	],
 	"find":
 	{
-		"height": 29.6
+		"height": 40.0
 	},
 	"find_in_files":
 	{
@@ -1222,64 +1294,12 @@
 		{
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "project.py",
-					"selected": true,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3870,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								322,
-								322
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"auto_complete_triggers":
-							[
-								{
-									"characters": "<",
-									"selector": "text.html, text.xml"
-								},
-								{
-									"rhs_empty": true,
-									"selector": "punctuation.accessor"
-								},
-								{
-									"characters": ".[\"'",
-									"selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
-									"server": "LSP-pyright"
-								}
-							],
-							"lsp_active": true,
-							"lsp_uri": "file:///C:/Dev/vertex/Python%20Projects/Manim/project.py",
-							"show_definitions": false,
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"stack_multiselect": false,
-					"type": "text"
-				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 29.6
+		"height": 28.0
 	},
 	"input":
 	{
@@ -1334,7 +1354,7 @@
 	},
 	"output.exec":
 	{
-		"height": 362.0
+		"height": 337.0
 	},
 	"output.find_results":
 	{
@@ -1352,7 +1372,7 @@
 	"project": "manim.sublime-project",
 	"replace":
 	{
-		"height": 56.0
+		"height": 52.8
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1361,6 +1381,14 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"dem",
+				"demo.py"
+			],
+			[
+				"wo",
+				"working_with_area.py"
+			]
 		],
 		"width": 0.0
 	},
@@ -1370,6 +1398,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"",
+				"C:\\Dev\\vertex\\Python Projects\\Manim\\manim.sublime-workspace"
+			]
 		],
 		"width": 380.0
 	},
