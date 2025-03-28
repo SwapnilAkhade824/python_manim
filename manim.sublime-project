@@ -1,0 +1,15 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+	"build_systems": [
+		{
+			"name": "Build - High",
+			"cmd": ["manim", "-pqh", "$file"],
+			"selector": "source.python"
+		}
+	]
+}

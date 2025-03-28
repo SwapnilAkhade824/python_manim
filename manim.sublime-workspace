@@ -1,0 +1,1399 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sele",
+				"\"selector\""
+			],
+			[
+				"nam",
+				"\"name\""
+			],
+			[
+				"bui",
+				"\"build_systems\""
+			],
+			[
+				"mate",
+				"MathTex"
+			],
+			[
+				"matht",
+				"MathTex"
+			],
+			[
+				"r",
+				"run_time"
+			],
+			[
+				"axi",
+				"axis"
+			],
+			[
+				"c",
+				"construct"
+			],
+			[
+				"sel",
+				"self.wait"
+			],
+			[
+				"b2",
+				"b2text"
+			],
+			[
+				"ste",
+				"set_fill"
+			],
+			[
+				"cho",
+				"choice_coffee"
+			],
+			[
+				"siz",
+				"size_price"
+			],
+			[
+				"ame",
+				"extra_addons_menu"
+			],
+			[
+				"add",
+				"extra_addons_menu"
+			],
+			[
+				"menu",
+				"size_menu"
+			],
+			[
+				"men",
+				"extra_addons_menu"
+			],
+			[
+				"trac",
+				"transactionhistorybutton"
+			],
+			[
+				"bacte",
+				"backtext_position"
+			],
+			[
+				"back",
+				"backtext"
+			],
+			[
+				"acc",
+				"accno_str"
+			],
+			[
+				"tota",
+				"total_transactions"
+			],
+			[
+				"data",
+				"dataset->from_accno"
+			],
+			[
+				"dat",
+				"dataset->amount"
+			],
+			[
+				"dataset",
+				"dataset->from_accno"
+			],
+			[
+				"row",
+				"rownumber"
+			],
+			[
+				"dtaa",
+				"dataset->amount"
+			],
+			[
+				"struct",
+				"structures.h"
+			],
+			[
+				"col",
+				"columncount"
+			],
+			[
+				"amount",
+				"amount_str"
+			],
+			[
+				"accno",
+				"accno_str"
+			],
+			[
+				"heas",
+				"header_size"
+			],
+			[
+				"pre",
+				"previousActive"
+			],
+			[
+				"next",
+				"nextbutton"
+			],
+			[
+				"dra",
+				"DrawRectangleRounded"
+			],
+			[
+				"whi",
+				"WHITE"
+			],
+			[
+				"hidd",
+				"hidden_password_position"
+			],
+			[
+				"pass",
+				"passActive"
+			],
+			[
+				"passa",
+				"passActive_ph"
+			],
+			[
+				"txt",
+				"txtboxheight"
+			],
+			[
+				"inp",
+				"input_amount"
+			],
+			[
+				"attext",
+				"statusmessage_textsize"
+			],
+			[
+				"with",
+				"withbuttonActive"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"stu",
+				"status"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"aab",
+				"aadhaarbox"
+			],
+			[
+				"namea",
+				"nameActive_ph"
+			],
+			[
+				"namac",
+				"nameActive_ph"
+			],
+			[
+				"nama",
+				"nameActive_ph"
+			],
+			[
+				"butt",
+				"buttonswidth"
+			],
+			[
+				"Lo",
+				"Logo.height"
+			],
+			[
+				"login",
+				"logintext"
+			],
+			[
+				"input",
+				"input_username"
+			],
+			[
+				"active",
+				"passwordActive"
+			],
+			[
+				"paact",
+				"password_placeholderActive"
+			],
+			[
+				"inc",
+				"Inc\t#include <…>"
+			],
+			[
+				"Whi",
+				"WHITE"
+			],
+			[
+				"Bla",
+				"BLACK"
+			],
+			[
+				"passac",
+				"password_placeholder"
+			],
+			[
+				"password",
+				"password_placeholder"
+			],
+			[
+				"screen",
+				"SCREEN_HEIGHT"
+			],
+			[
+				"Scree",
+				"SCREEN_WIDTH"
+			],
+			[
+				"acco",
+				"Account"
+			],
+			[
+				"scree",
+				"SCREEN_HEIGHT"
+			],
+			[
+				"font",
+				"fontsize"
+			],
+			[
+				"ray",
+				"raygui"
+			],
+			[
+				"RAYGUI",
+				"RAYGUI_IMPLEMENTATION"
+			],
+			[
+				"bala",
+				"balance.csv"
+			],
+			[
+				"lo",
+				"loginpage"
+			],
+			[
+				"st",
+				"stdio"
+			],
+			[
+				"in",
+				"Inc\t#include <…>"
+			],
+			[
+				"main",
+				"raymain\tRaylib Main Function Snippet"
+			],
+			[
+				"scr",
+				"SCREEN_HEIGHT"
+			],
+			[
+				"std",
+				"stdio.h"
+			],
+			[
+				"gre",
+				"green"
+			],
+			[
+				"to",
+				"toTitleCase"
+			],
+			[
+				"ma",
+				"margin-block"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"sol",
+				"solutionImage"
+			],
+			[
+				"hea",
+				"headers"
+			],
+			[
+				"pr",
+				"printf\tprintf …"
+			],
+			[
+				"fprin",
+				"fprintf\tfprintf …"
+			],
+			[
+				"al",
+				"align-content"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "project.py",
+			"settings":
+			{
+				"buffer_size": 3870,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"revert",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAAC/CwAAZnJvbSBtYW5pbSBpbXBvcnQgKgoKY2xhc3MgU2luZUN1cnZlVW5pdENpcmNsZShTY2VuZSk6CiAgICAjIGNvbnRyaWJ1dGVkIGJ5IGhlZWppbl9wYXJrLCBodHRwczovL2luZm9ncmFwaC50aXN0b3J5LmNvbS8yMzAKICAgIGRlZiBjb25zdHJ1Y3Qoc2VsZik6CiAgICAgICAgc2VsZi5zaG93X2F4aXMoKQogICAgICAgIHNlbGYuc2hvd19jaXJjbGUoKQogICAgICAgIHNlbGYubW92ZV9kb3RfYW5kX2RyYXdfY3VydmUoKQogICAgICAgIHNlbGYud2FpdCgpCgogICAgZGVmIHNob3dfYXhpcyhzZWxmKToKICAgICAgICB4X3N0YXJ0ID0gbnAuYXJyYXkoWy01LC0zLDBdKQogICAgICAgIHhfZW5kID0gbnAuYXJyYXkoWzYsLTMsMF0pCgogICAgICAgIHlfc3RhcnQgPSBucC5hcnJheShbLTQsLTUsMF0pCiAgICAgICAgeV9lbmQgPSBucC5hcnJheShbLTQsNiwwXSkKCiAgICAgICAgeF9heGlzID0gTGluZSh4X3N0YXJ0LCB4X2VuZCkKICAgICAgICB5X2F4aXMgPSBMaW5lKHlfc3RhcnQsIHlfZW5kKQoKICAgICAgICBzZWxmLmFkZCh4X2F4aXMsIHlfYXhpcykKICAgICAgICBzZWxmLmFkZF94X2xhYmVscygpCiAgICAgICAgc2VsZi5hZGRfeV9sYWJlbHMoKQoKICAgICAgICBzZWxmLm9yaWdpbl9wb2ludCA9IG5wLmFycmF5KFstNCwtMywwXSkKICAgICAgICBzZWxmLmN1cnZlX3N0YXJ0ID0gbnAuYXJyYXkoWy0zLC0zLDBdKQoKICAgIGRlZiBhZGRfeF9sYWJlbHMoc2VsZik6CiAgICAgICAgeF9sYWJlbHMgPSBbCiAgICAgICAgICAgIE1hdGhUZXgociJccGkiKSwgTWF0aFRleChyIjIgXHBpIiksCiAgICAgICAgICAgIE1hdGhUZXgociIzIFxwaSIpLCBNYXRoVGV4KHIiNCBccGkiKQogICAgICAgIF0KCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UobGVuKHhfbGFiZWxzKSk6CiAgICAgICAgICAgIHhfbGFiZWxzW2ldLm5leHRfdG8obnAuYXJyYXkoWy0xICsgMippLCAtMiwgMF0pLCBET1dOKQogICAgICAgICAgICBzZWxmLmFkZCh4X2xhYmVsc1tpXSkKCiAgICBkZWYgYWRkX3lfbGFiZWxzKHNlbGYpOgogICAgICAgIHlfbGFiZWxzID0gWwogICAgICAgICAgICBNYXRoVGV4KHIiXHBpIiksIE1hdGhUZXgociIyIFxwaSIpLAogICAgICAgICAgICBNYXRoVGV4KHIiMyBccGkiKSwgTWF0aFRleChyIjQgXHBpIikKICAgICAgICBdCgogICAgICAgIGZvciBpIGluIHJhbmdlKGxlbih5X2xhYmVscykpOgogICAgICAgICAgICB5X2xhYmVsc1tpXS5uZXh0X3RvKG5wLmFycmF5KFstNCwgMippLCAwXSksIExFRlQpCiAgICAgICAgICAgIHNlbGYuYWRkKHlfbGFiZWxzW2ldKQoKICAgIGRlZiBzaG93X2NpcmNsZShzZWxmKToKICAgICAgICBjaXJjbGUgPSBDaXJjbGUocmFkaXVzPTEpCiAgICAgICAgY2lyY2xlLm1vdmVfdG8oc2VsZi5vcmlnaW5fcG9pbnQpCiAgICAgICAgc2VsZi5hZGQoY2lyY2xlKQogICAgICAgIHNlbGYuY2lyY2xlID0gY2lyY2xlCgogICAgZGVmIG1vdmVfZG90X2FuZF9kcmF3X2N1cnZlKHNlbGYpOgogICAgICAgIG9yYml0ID0gc2VsZi5jaXJjbGUKICAgICAgICBvcmlnaW5fcG9pbnQgPSBzZWxmLm9yaWdpbl9wb2ludAoKICAgICAgICBkb3QgPSBEb3QocmFkaXVzPTAuMDgsIGNvbG9yPVlFTExPVykKICAgICAgICBkb3QubW92ZV90byhvcmJpdC5wb2ludF9mcm9tX3Byb3BvcnRpb24oMCkpCiAgICAgICAgc2VsZi50X29mZnNldCA9IDAuMgogICAgICAgIHJhdGUgPSAwLjI1CgogICAgICAgIGRlZiBnb19hcm91bmRfY2lyY2xlKG1vYiwgZHQpOgogICAgICAgICAgICBzZWxmLnRfb2Zmc2V0ICs9IChkdCAqIHJhdGUpCiAgICAgICAgICAgIHByaW50KHNlbGYudF9vZmZzZXQpCiAgICAgICAgICAgIG1vYi5tb3ZlX3RvKG9yYml0LnBvaW50X2Zyb21fcHJvcG9ydGlvbihzZWxmLnRfb2Zmc2V0ICUgMSkpCgogICAgICAgIGRlZiBnZXRfbGluZV90b19jaXJjbGUoKToKICAgICAgICAgICAgcmV0dXJuIExpbmUob3JpZ2luX3BvaW50LCBkb3QuZ2V0X2NlbnRlcigpLCBjb2xvcj1CTFVFKQoKICAgICAgICBkZWYgZ2V0X2xpbmVfdG9fY3VydmUoKToKICAgICAgICAgICAgeCA9IHNlbGYuY3VydmVfc3RhcnRbMF0gKyBzZWxmLnRfb2Zmc2V0ICogNAogICAgICAgICAgICB5ID0gZG90LmdldF9jZW50ZXIoKVsxXQogICAgICAgICAgICByZXR1cm4gTGluZShkb3QuZ2V0X2NlbnRlcigpLCBucC5hcnJheShbeCx5LDBdKSwgY29sb3I9WUVMTE9XX0EsIHN0cm9rZV93aWR0aD0yICkKCgogICAgICAgIHNlbGYuY3VydmUgPSBWR3JvdXAoKQogICAgICAgIHNlbGYuY3VydmUuYWRkKExpbmUoc2VsZi5jdXJ2ZV9zdGFydCxzZWxmLmN1cnZlX3N0YXJ0KSkKICAgICAgICBkZWYgZ2V0X2N1cnZlKCk6CiAgICAgICAgICAgIGxhc3RfbGluZSA9IHNlbGYuY3VydmVbLTFdCiAgICAgICAgICAgIHggPSBzZWxmLmN1cnZlX3N0YXJ0WzBdICsgc2VsZi50X29mZnNldCAqIDQKICAgICAgICAgICAgeSA9IGRvdC5nZXRfY2VudGVyKClbMV0KICAgICAgICAgICAgbmV3X2xpbmUgPSBMaW5lKGxhc3RfbGluZS5nZXRfZW5kKCksbnAuYXJyYXkoW3gseSwwXSksIGNvbG9yPVlFTExPV19EKQogICAgICAgICAgICBzZWxmLmN1cnZlLmFkZChuZXdfbGluZSkKCiAgICAgICAgICAgIHJldHVybiBzZWxmLmN1cnZlCgogICAgICAgIGRvdC5hZGRfdXBkYXRlcihnb19hcm91bmRfY2lyY2xlKQoKICAgICAgICBvcmlnaW5fdG9fY2lyY2xlX2xpbmUgPSBhbHdheXNfcmVkcmF3KGdldF9saW5lX3RvX2NpcmNsZSkKICAgICAgICBkb3RfdG9fY3VydmVfbGluZSA9IGFsd2F5c19yZWRyYXcoZ2V0X2xpbmVfdG9fY3VydmUpCiAgICAgICAgc2luZV9jdXJ2ZV9saW5lID0gYWx3YXlzX3JlZHJhdyhnZXRfY3VydmUpCgogICAgICAgIHNlbGYuYWRkKGRvdCkKICAgICAgICBzZWxmLmFkZChvcmJpdCwgb3JpZ2luX3RvX2NpcmNsZV9saW5lLCBkb3RfdG9fY3VydmVfbGluZSwgc2luZV9jdXJ2ZV9saW5lKQogICAgICAgIHNlbGYud2FpdCg4LjUpCgogICAgICAgIGRvdC5yZW1vdmVfdXBkYXRlcihnb19hcm91bmRfY2lyY2xlKQAAAAAAAAAAHg8AAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQgEAAAAAAABCAQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/interactive_c.sublime-build",
+					""
+				],
+				[
+					"Packages/User/interactive_c.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/raylib-makefile.sublime-build",
+					""
+				],
+				[
+					"Packages/User/raylib-makefile.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/User/raylib-makefile.sublime-build",
+				"Clean"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/interactive.sublime-build",
+					""
+				],
+				[
+					"Packages/User/interactive.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/interactive.sublime-build",
+					""
+				],
+				[
+					"Packages/User/interactive.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/interactive_c.sublime-build",
+					""
+				],
+				[
+					"Packages/User/interactive_c.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/interactive_c.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/interactive_c.sublime-build",
+					""
+				],
+				[
+					"Packages/User/interactive_c.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/interactive_c.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/interactive_c.sublime-build",
+					""
+				],
+				[
+					"Packages/User/interactive_c.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/raylib-makefile.sublime-build",
+					""
+				],
+				[
+					"Packages/User/raylib-makefile.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/User/interactive_c.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/InteractivePython.sublime-build",
+					""
+				],
+				[
+					"Packages/User/InteractivePython.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/User/InteractivePython.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/InteractivePython.sublime-build",
+					""
+				],
+				[
+					"Packages/User/InteractivePython.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/manim.sublime-build",
+					""
+				],
+				[
+					"Packages/User/raylib-makefile.sublime-build",
+					""
+				],
+				[
+					"Packages/User/raylib-makefile.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/User/manim.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/InteractivePython.sublime-build",
+					""
+				],
+				[
+					"Packages/User/InteractivePython.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/raylib-makefile.sublime-build",
+					""
+				],
+				[
+					"Packages/User/raylib-makefile.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/User/InteractivePython.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/interactive built.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/interactive built.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/interactive built.sublime-build",
+					""
+				],
+				[
+					"Packages/User/interactive_built.sublime-build",
+					""
+				],
+				[
+					"Packages/User/interactivebuilt.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/interactivebuilt.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/interactive built.sublime-build",
+					""
+				],
+				[
+					"Packages/User/interactivebuilt.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/interactivebuilt.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/interactive.sublime-build",
+					""
+				],
+				[
+					"Packages/User/interactive.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/User/interactive.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/interactivebuilt.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/interactivebuilt.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/interactivebuilt.sublime-build",
+					""
+				],
+				[
+					"Packages/User/interactivebuilt.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/User/interactivebuilt.sublime-build",
+				"Syntax Check"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/raylib-C.sublime-build",
+					""
+				],
+				[
+					"Packages/User/raylib-C.sublime-build",
+					"Compile"
+				],
+				[
+					"Packages/User/raylib-C.sublime-build",
+					"Compile & Run"
+				],
+				[
+					"Packages/User/raylib-C.sublime-build",
+					"Release"
+				]
+			],
+			[
+				"Packages/User/raylib-C.sublime-build",
+				"Compile & Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/raylib-makefile.sublime-build",
+					""
+				],
+				[
+					"Packages/User/raylib-makefile.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/User/raylib-makefile.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"vpf",
+				"View Package File"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"build sys",
+				"Build: New Build System"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"li",
+				"Package Control: List Packages"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ter",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"pre",
+				"Preferences: Browse Packages"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"add",
+				"Git: Add All"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Raylib Main Function Snippet"
+			],
+			[
+				"",
+				"Build: Cancel"
+			],
+			[
+				"nbs",
+				"PackageDev: New Build System"
+			],
+			[
+				"snippe",
+				"Snippet: #include <…>"
+			],
+			[
+				"prefrences",
+				"Preferences: Settings"
+			],
+			[
+				"file icon",
+				"Preferences: A File Icon Settings"
+			],
+			[
+				"prea",
+				"Preferences: A File Icon Settings"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"renam",
+				"File: Rename File"
+			],
+			[
+				"ren",
+				"File: Rename File"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"prefere termis",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"terminus pre",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"terminu",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"can",
+				"Build: Cancel"
+			],
+			[
+				"pf",
+				"Project: Add Folder"
+			],
+			[
+				"v",
+				"View Package File"
+			],
+			[
+				"buil",
+				"PackageDev: New Build System"
+			],
+			[
+				"new",
+				"Build: New Build System"
+			],
+			[
+				"built",
+				"PackageDev: New Build System"
+			],
+			[
+				"cancel",
+				"Build: Cancel"
+			],
+			[
+				"terminus se",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"preferences",
+				"Preferences: Settings"
+			],
+			[
+				"preference te",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings"
+			],
+			[
+				"default",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"br",
+				"Preferences: Browse Packages"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"package",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"package control",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 155.199996948,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Dev/vertex/Python Projects/Manim"
+	],
+	"file_history":
+	[
+		"/C/Dev/vertex/Python Projects/Manim/manim.sublime-project",
+		"/C/Users/SWAPNIL AKHADE/AppData/Roaming/Sublime Text/Packages/User/manim.sublime-build",
+		"/C/Dev/vertex/Python Projects/project.py",
+		"/C/Users/SWAPNIL AKHADE/AppData/Roaming/Sublime Text/Packages/LSP-json/schemas/sublime-build.json",
+		"/C/Users/SWAPNIL AKHADE/AppData/Roaming/Sublime Text/Packages/Java/Ant.sublime-build",
+		"/C/Dev/vertex/Python Projects/timepass.py",
+		"/C/Dev/Manim/OOPs.py",
+		"/C/Dev/Manim/main.py",
+		"/C/Dev/manim/main.py",
+		"/C/Dev/manim/media/videos/main/1080p60/SquareToCircle.mp4",
+		"/C/Dev/vertex/Python Projects/password generator.py",
+		"/C/Dev/vertex/Python Projects/collective_data_types.py",
+		"/C/Dev/vertex/Python Projects/coffee-machine.py",
+		"/C/Dev/vertex/Python Projects/userdefined-functions.py",
+		"/C/Dev/vertex/Python Projects/userdefinedfunction.py",
+		"/C/Dev/vertex/Raylib Work/src/signup_renew.c",
+		"/C/Dev/vertex/Raylib Work/balance.csv",
+		"/C/Dev/vertex/Raylib Work/src/balance.c",
+		"/C/Dev/vertex/Raylib Work/src/transaction.c",
+		"/C/Dev/vertex/Raylib Work/include/structures.h",
+		"/C/Dev/vertex/Raylib Work/transaction.csv",
+		"/C/Dev/vertex/Raylib Work/include/raylib.h",
+		"/C/Dev/vertex/Raylib Work/src/login_signin_page.c",
+		"/C/Dev/vertex/Raylib Work/src/login_page.c",
+		"/C/Dev/vertex/Raylib Work/include/Admin.h",
+		"/C/Dev/vertex/Raylib Work/include/deposit.h",
+		"/C/Dev/vertex/Raylib Work/src/homepage.c",
+		"/C/Dev/vertex/Raylib Work/src/transfer.c",
+		"/C/Dev/vertex/Raylib Work/src/withdraw.c",
+		"/C/Dev/vertex/Raylib Work/src/deposit.c",
+		"/C/Dev/vertex/Raylib Work/src/main.c",
+		"/D/login_page.h",
+		"/D/main.c",
+		"/C/Dev/vertex/Raylib Work/include/account.h",
+		"/C/Dev/vertex/Raylib Work/Makefile",
+		"/C/Dev/vertex/Raylib Work/include/signup2.h",
+		"/C/Dev/vertex/Raylib Work/Signup.csv",
+		"/C/Dev/vertex/Raylib Work/src/mainkaran.c",
+		"/C/Dev/vertex/Raylib Work/include/raygui.h",
+		"/C/Dev/vertex/Raylib Work/src/signup.c",
+		"/C/Dev/vertex/Raylib Work/done/login_signin_page.c",
+		"/C/Dev/vertex/Raylib Work/done/main.c",
+		"/C/Dev/vertex/Raylib Work/src/demo.c",
+		"/C/Users/SWAPNIL AKHADE/AppData/Roaming/Sublime Text/Packages/User/raylib-makefile.sublime-build",
+		"/D/demo.py",
+		"/C/Dev/vertex/banking/src/function.c",
+		"/C/Dev/vertex/banking/src/menus.c",
+		"/C/Dev/vertex/banking/src/transfer.c",
+		"/C/Dev/vertex/banking/src/main.c",
+		"/C/Dev/vertex/banking/include/menus.h",
+		"/C/Dev/vertex/banking/include/pages.h",
+		"/C/Dev/vertex/banking/src/pages.c",
+		"/C/Dev/vertex/banking/src/balance.csv",
+		"/C/Dev/vertex/banking/src/block-3.c",
+		"/C/Dev/vertex/banking/include/block 3.c",
+		"/C/Dev/vertex/banking/src/loginpage.c",
+		"/C/Dev/vertex/banktest/src/menus.c",
+		"/C/Dev/vertex/main.c",
+		"/C/Users/SWAPNIL AKHADE/AppData/Roaming/Sublime Text/Packages/User/raysample.sublime-snippet",
+		"/C/Users/SWAPNIL AKHADE/AppData/Roaming/Sublime Text/Packages/Makefile/Make.sublime-build",
+		"/C/Dev/vertex/Raylib Work/build/build.bat",
+		"/C/Users/SWAPNIL AKHADE/AppData/Roaming/Sublime Text/Packages/User/raylib-C.sublime-build",
+		"/C/Dev/vertex/filehandling/reading a text file.c",
+		"/C/Dev/vertex/CSV_Practice/file handling.c",
+		"/C/Dev/vertex/CSV_Practice/student.bin",
+		"/C/Dev/vertex/CSV_Practice/read.txt",
+		"/C/Users/SWAPNIL AKHADE/AppData/Roaming/Sublime Text/Packages/User/interactive_c.sublime-build",
+		"/C/Users/SWAPNIL AKHADE/AppData/Roaming/Sublime Text/Packages/User/InteractivePython.sublime-build",
+		"/C/Dev/vertex/Python Projects/pizza bill calculator.py",
+		"/C/Dev/vertex/Python Projects/bill calculator.py",
+		"/C/Dev/vertex/Python Projects/tresure hunt.py",
+		"/C/Dev/vertex/Python Projects/rockpapersicsorgame.py",
+		"/C/Dev/vertex/Python Projects/use of random module.py",
+		"/C/Dev/vertex/wonder_women/try.py",
+		"/C/Dev/vertex/wonder_women/bill_calculator.py",
+		"/C/Dev/vertex/wonder_women/bandname.py",
+		"/C/Dev/vertex/wonder_women/foc.c",
+		"/C/Dev/vertex/wonder_women/admin.h",
+		"/C/Dev/vertex/project/include/hfile.h",
+		"/C/Dev/vertex/project/src/function.multipages.c",
+		"/C/Dev/vertex/project/src/homepage.c",
+		"/C/Dev/vertex/project/include/raylib.h",
+		"/C/Dev/banking/database/users.csv",
+		"/C/Dev/banking/src/main.c",
+		"/C/Dev/banking/include/banking_system.h",
+		"/C/Dev/vertex/project/include/transaction.h",
+		"/C/Dev/vertex/wonder_women/Login_function.h",
+		"/C/Dev/vertex/project/src/login.c",
+		"/C/Dev/vertex/project/src/test2.c",
+		"/C/Dev/vertex/project/src/test1.c",
+		"/C/Dev/vertex/project/src/accounts.csv",
+		"/C/Dev/vertex/project/src/function.multipages",
+		"/C/Dev/vertex/project/src/THEAPPMFS.c",
+		"/C/Dev/vertex/project/src/multipage.c",
+		"/C/Dev/vertex/project/src/merged_banking_app.c",
+		"/C/Users/SWAPNIL AKHADE/OneDrive/Desktop/MITAOE College Work/DT/New Website/script.js",
+		"/C/Users/SWAPNIL AKHADE/OneDrive/Desktop/MITAOE College Work/DT/New Website/styles.css",
+		"/C/Users/SWAPNIL AKHADE/OneDrive/Desktop/MITAOE College Work/DT/New Website/index.html",
+		"/C/Users/SWAPNIL AKHADE/OneDrive/Desktop/MITAOE College Work/DT/Vivek Website Work/about.html",
+		"/C/Users/SWAPNIL AKHADE/OneDrive/Desktop/MITAOE College Work/DT/Vivek Website Work/reviews.html",
+		"/C/Users/SWAPNIL AKHADE/OneDrive/Desktop/MITAOE College Work/DT/Vivek Website Work/index.html",
+		"/C/Users/SWAPNIL AKHADE/OneDrive/Desktop/MITAOE College Work/DT/Vivek Website Work/script.js",
+		"/C/Users/SWAPNIL AKHADE/OneDrive/Desktop/MITAOE College Work/DT/Vivek Website Work/styles.css",
+		"/C/Dev/vertex/wonder_women/accounts.csv",
+		"/C/Dev/vertex/wonder_women/try.c",
+		"/C/Dev/vertex/CSV_Practice/functions.h",
+		"/C/Dev/vertex/CSV_Practice/main.c",
+		"/C/Program Files/sublime text/functions.h",
+		"/C/Dev/vertex/CSV_Practice/timewaste.csv",
+		"/C/Dev/vertex/CSV_Practice/timepass.c",
+		"/C/Dev/vertex/CSV_Practice/csvtest.c",
+		"/C/Dev/vertex/Raylib Work/main.py",
+		"/C/Dev/vertex/csvtest.c",
+		"/C/Dev/vertex/raylib.c",
+		"/C/Dev/vertex/timepass.c",
+		"/C/Users/SWAPNIL AKHADE/OneDrive/Desktop/MITAOE College Work/DT/Vivek Website Work/BACKGROUND.webp",
+		"/C/Users/SWAPNIL AKHADE/OneDrive/Desktop/MITAOE College Work/DT/Vivek Website Work/swapnil/index.html",
+		"/C/dev/vertex/filehandle.h",
+		"/C/dev/vertex/csvtest.c",
+		"/C/Users/SWAPNIL AKHADE/AppData/Roaming/Sublime Text/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/SWAPNIL AKHADE/AppData/Roaming/Sublime Text/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/dev/git_test/main.c",
+		"/C/Users/SWAPNIL AKHADE/AppData/Roaming/Sublime Text/Packages/User/interactive.sublime-build",
+		"/C/dev/vertex/main.c",
+		"/C/Users/SWAPNIL AKHADE/AppData/Roaming/Sublime Text/Packages/C++/C Single File.sublime-build",
+		"/C/Users/SWAPNIL AKHADE/AppData/Roaming/Sublime Text/Packages/Objective-C.sublime-package",
+		"/C/Users/SWAPNIL AKHADE/OneDrive/Desktop/MITAOE College Work/DT/Website new/login.html",
+		"/C/Users/SWAPNIL AKHADE/OneDrive/Desktop/MITAOE College Work/DT/Website new/styles.css"
+	],
+	"find":
+	{
+		"height": 29.6
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "project.py",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3870,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								322,
+								322
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": ".[\"'",
+									"selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
+									"server": "LSP-pyright"
+								}
+							],
+							"lsp_active": true,
+							"lsp_uri": "file:///C:/Dev/vertex/Python%20Projects/Manim/project.py",
+							"show_definitions": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.6
+	},
+	"input":
+	{
+		"height": 134.4
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 0.0
+	},
+	"output.Terminus":
+	{
+		"height": 443.0
+	},
+	"output.Terminus 2":
+	{
+		"height": 422.0
+	},
+	"output.Terminus 3":
+	{
+		"height": 491.0
+	},
+	"output.Terminus Build Results":
+	{
+		"height": 222.0
+	},
+	"output.diagnostics":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 362.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 132.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "manim.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"lsp_show_inlay_hints": false
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 292.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
