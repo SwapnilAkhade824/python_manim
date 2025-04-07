@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Dev/vertex/Python/Manim/media/videos/cos_sin_curve/1080p60/partial_movie_files/sin_cos_waves/1977789804_1754310298_3120927155.mp4'
+file 'file:C:/Dev/vertex/Python/Manim/media/videos/cos_sin_curve/1080p60/partial_movie_files/sin_cos_waves/2373997489_4195932965_2809320922.mp4'
+file 'file:C:/Dev/vertex/Python/Manim/media/videos/cos_sin_curve/1080p60/partial_movie_files/sin_cos_waves/2373997489_2408024828_143421756.mp4'
