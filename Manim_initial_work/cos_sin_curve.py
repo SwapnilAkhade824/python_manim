@@ -16,7 +16,7 @@ class sin_cos_waves(Scene):
 		self.draw_line()
 		self.wait()
 		self.dot_moving_with_curve()
-		self.wait(2)
+		self.wait(1)
 
 
 	def show_axis(self):
@@ -121,7 +121,7 @@ class sin_cos_waves(Scene):
 		self.add(dot)
 		self.add(cur_sin,trac_sin,cur_cos,trac_cos)
 
-		self.wait(4.05)
+		self.wait(5)
 
 		dot.remove_updater(move_around_circle)
 
