@@ -1,3 +1,4 @@
+from os import access
 from typing_extensions import runtime
 from manim import *
 
@@ -12,7 +13,8 @@ class Integration(Scene):
 
 		self.coordinate_axis()
 		self.curve()
-		self.rectangles()
+		self.rectangles(0.5)
+		self.rectangles(0.25)
 
 		self.wait(5)
 
@@ -36,9 +38,37 @@ class Integration(Scene):
 
 		self.add(curve)
 
-	def rectangles(self):
+	def rectangles(self,size):
 
-		rect = Rectangle(width=1,height=2,color=BLUE,fill_color=BLUE,fill_opacity=0.3)
-		rect.move_to(self.axis.c2p())
+		count = 0
 
-		self.add(rect)
+		x_c = [0,size]
+		y_c = [0,np.sin(sum(x_c)/2)]
+
+		rectangles = VGroup()
+
+		while count < np.ceil(2*np.pi/size):
+
+			rect = Polygon(
+				self.axis.coords_to_point(x_c[0],y_c[0]),
+				self.axis.coords_to_point(x_c[1],y_c[0]),
+				self.axis.coords_to_point(x_c[1],y_c[1]),
+				self.axis.coords_to_point(x_c[0],y_c[1]),
+				color=BLUE,
+				fill_color=BLUE,
+				fill_opacity=0.3
+			)
+
+			rectangles.add(rect)
+
+			x_c = x_c[::-1]
+			x_c[1] = x_c[0] + size
+			
+			y_c[1] = np.sin(sum(x_c)/2)
+
+			count += 1
+
+		self.play(FadeIn(rectangles))
+		self.wait(2)
+		self.play(FadeOut(rectangles))
+		self.wait(1)
