@@ -1,0 +1,52 @@
+Symbols
+	/ pictorial representation or grphs
+	# voice over
+	- text
+
+Frame1:
+	Intro-
+		/ sinx graph --> sin^-1 x (transition)
+		- inverse trigo (something catchy intro)
+
+Frame2:
+	# intro voiceover with 
+	- all the topics which we will learn
+
+Frame3:
+	/ left side: full y = sin(x) curve
+ 	/ horizontal lines intersect multiple times → show it’s not invertible
+	/ highlight the domain [-π/2, π/2] with bold curve
+	/ right side: flip restricted graph over y = x → plot arcsin(x)
+	/ do same for cos(x) (restrict to [0, π]) → arccos(x)
+	/ and tan(x) (restrict to (−π/2, π/2)) → arctan(x)
+	/ side by side: show domain and range in boxes
+	# Explanation 
+	- all the text related to sin cos tan and their inverse
+
+Frame4: 
+    / for each trig function:
+	/ graph original (with restricted domain)
+	/ pick point → animate reflecting across y = x
+	/ slowly build arcsin, arccos, arctan
+	/ final grid view:
+	/ top row: sin, cos, tan (restricted)
+	/ bottom row: arcsin, arccos, arctan
+	/ add smooth colors + range highlighting
+	/ show how each inverse is a reflection of the original
+    # this is how to visualize the graphing
+    - no text
+
+Frame5:
+	/ show sin(sin^-1(x)) is not always = x
+	/ show how only sin^-1 returns only principal value that is its range
+
+Frame6:
+	/ all common values etc ( on circle like polar graph)
+
+
+Frame7:
+	
+
+
+
+		

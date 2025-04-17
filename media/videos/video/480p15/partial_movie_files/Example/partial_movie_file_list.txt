@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/dev/manim/media/videos/video/480p15/partial_movie_files/Example/1185818338_3234450906_223132457.mp4'
+file 'file:D:/dev/manim/media/videos/video/480p15/partial_movie_files/Example/624642324_1206733_2023860264.mp4'
+file 'file:D:/dev/manim/media/videos/video/480p15/partial_movie_files/Example/624642324_2378737430_3750967324.mp4'
+file 'file:D:/dev/manim/media/videos/video/480p15/partial_movie_files/Example/624642324_3442421704_1584420237.mp4'
+file 'file:D:/dev/manim/media/videos/video/480p15/partial_movie_files/Example/624642324_3093156201_3334898578.mp4'
+file 'file:D:/dev/manim/media/videos/video/480p15/partial_movie_files/Example/624642324_1320964356_529933270.mp4'
+file 'file:D:/dev/manim/media/videos/video/480p15/partial_movie_files/Example/624642324_1293543018_388351427.mp4'
+file 'file:D:/dev/manim/media/videos/video/480p15/partial_movie_files/Example/624642324_3965559719_1476048164.mp4'
+file 'file:D:/dev/manim/media/videos/video/480p15/partial_movie_files/Example/624642324_103649101_1639104169.mp4'
+file 'file:D:/dev/manim/media/videos/video/480p15/partial_movie_files/Example/624642324_2015106682_1656219857.mp4'

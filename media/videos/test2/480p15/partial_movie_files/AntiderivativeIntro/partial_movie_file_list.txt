@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/dev/manim/media/videos/test2/480p15/partial_movie_files/AntiderivativeIntro/1185818338_993696265_223132457.mp4'
+file 'file:D:/dev/manim/media/videos/test2/480p15/partial_movie_files/AntiderivativeIntro/624642324_2408024828_2033571234.mp4'
+file 'file:D:/dev/manim/media/videos/test2/480p15/partial_movie_files/AntiderivativeIntro/624642324_2044015442_1688064000.mp4'
+file 'file:D:/dev/manim/media/videos/test2/480p15/partial_movie_files/AntiderivativeIntro/624642324_2778512004_1666280314.mp4'
+file 'file:D:/dev/manim/media/videos/test2/480p15/partial_movie_files/AntiderivativeIntro/624642324_2408024828_3153322616.mp4'
+file 'file:D:/dev/manim/media/videos/test2/480p15/partial_movie_files/AntiderivativeIntro/624642324_1193325500_461535224.mp4'
+file 'file:D:/dev/manim/media/videos/test2/480p15/partial_movie_files/AntiderivativeIntro/624642324_2408024828_1165584033.mp4'
+file 'file:D:/dev/manim/media/videos/test2/480p15/partial_movie_files/AntiderivativeIntro/624642324_2476762181_1033437995.mp4'

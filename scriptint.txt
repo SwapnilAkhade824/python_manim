@@ -1,0 +1,37 @@
+Frame 1:
+	Title slide 
+		"Understanding the concept of integration"
+	//	"some animation of the integral sign"??
+
+Frame 2:
+	Definition of integration
+		"It is the reverse of differentiation and often reffered 
+		to as anti derivative"
+	// 	draw a function f(x) turning into F(x) #small simple function#
+
+Frame 3:
+	Show a graph and then use the rectangular method
+	show how smaller the rectangles, the accurate is the area
+
+Frame 4:
+	start with frame 3 again and this time add the notations 
+	(limit del x tends to 0 ) part
+
+Frame 5:
+	explain 
+		indefinite (gives a general function)
+		definite (gives a value)
+
+Frame 6:
+	example velocity vs time
+		show its easy to calc displacement when its constant velocity 
+
+Frame 7:
+	show how to find area of a varying velocity (starts with 0 goes to 5 comes back to 0 type shi)
+
+Frame 8: 
+	Put some shit like a quote or smething and end
+	//“the integral sign ∫ was introduced by leibniz in 1675. 
+	it’s just a stretched-out ‘s’, for summa—the latin word for sum.”
+
+

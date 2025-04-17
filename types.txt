@@ -1,0 +1,4 @@
+Axes.plot()
+ParametricFunction() //when x and y depend on parameter t
+ImplicitFunction() //used when the equation is not explicitly solved for y
+BarChart(values=[] , bar_names=["",""...] , bar_colors=[] etc)

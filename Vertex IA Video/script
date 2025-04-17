@@ -1,0 +1,32 @@
+KEY
+/ -->text
+* -->visual
+# -->text and narration
+@ -->narration
+$ -->comment or idea
+
+
+
+Scene 1:INTRODUCTION
+	Frame 1+2+3:
+		@* ($some intresting story to attract the audience with a supporting visual,
+		Example- 
+		imagine you're at a party with just 23 people. you start chatting, someone mentions their birthday—and suddenly, two people in the room realize they share the same one. weird, right? you d think the chances are low but math says otherwise. welcome to the mind-bending world of permutations and combinations, where your intuition doesn't always get it right.$
+		)@*
+
+SCENE 2:DERANGEMENT
+	Frame1: Idea
+		*(take a small deck of cards named 1-10 and there are 10 spots
+		and shuffle the cards and put it in the places 
+		{u can just predefine which spot gets which card in order to make it with the narration}
+		@{during the animation}- explain that for an example i have 10 cards from 1 to 10 and i ....... as u can see i got 0 matches and well thats quiet unlucky as the probability of getting a match is 63%
+		)
+	Frame2: Explanation
+		@ this probability is calculated by
+		/ Probability for derangements = [Number of derangements / Total permutations] x 100 (P(x) = (!n / n!) x 100)
+		@ now you must be wondering what is this reverse factorial looking thing, it is called derangement and is usually represented with 
+		*!n = n!/e $try make e look like the euler number$
+		@ so putting this in the formula we get probability
+
+
+

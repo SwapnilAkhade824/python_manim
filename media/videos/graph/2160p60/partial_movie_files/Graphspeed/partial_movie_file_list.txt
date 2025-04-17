@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/dev/manim/media/videos/graph/2160p60/partial_movie_files/Graphspeed/1457378895_2658122013_3763850919.mp4'
+file 'file:D:/dev/manim/media/videos/graph/2160p60/partial_movie_files/Graphspeed/1993220219_2750319815_594763520.mp4'
+file 'file:D:/dev/manim/media/videos/graph/2160p60/partial_movie_files/Graphspeed/1993220219_1754310298_2043238186.mp4'
