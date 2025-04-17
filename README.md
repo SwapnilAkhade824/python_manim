@@ -1,1 +1,1 @@
-$ Manim Repository FY Juniors 
+# Manim Repository FY Juniors 
