@@ -27,6 +27,55 @@ SCENE 2:DERANGEMENT
 		@ now you must be wondering what is this reverse factorial looking thing, it is called derangement and is usually represented with 
 		*!n = n!/e $try make e look like the euler number$
 		@ so putting this in the formula we get probability
+		@ and thus the probability of getting no matches is 1/e x 100 = 37% so as u can see i kinda got unlucky there
+		*1/e x 100 = 37....%
+	$I can still add derivation but long$
+	Frame3: Derivation 
+		@consider a pie with n! possible permutations then you must subtract all the arrangements in which an elements appears in its original location, then you have to add back in permutations in which each set of two elements stay in their original positions as we subtracted them twice and so on it gives us 
+		*formula according with narration and use pie chat*
+
+Scene 3: Hat Prob
+		Frame1:
+		@The famous example of derangement is the hat problem,
+		example there are 7 people(*denoted by colors*) and their 7 hats(*denoted by their corresponding color*), and at the end the hats get distributed back randomly which may lead to disrangement, so if this ends up happening to you, well you have 1 in 7 chance to get your hat and there is a 37% chance no one will get their own hats back 
+		$lame humour idk whyd i put it$ 
+
+Scene 4: Birthday Paradox
+		Frame1: Recollection
+			@remember the story i told you in the start about 23 people in a room and having a high possibility of having coinciding birthdays which sounds wrong but is indeed correct
+			@This example is of simple probability where the number of people increases and the possibility does, so lets see how
+			*(try to create 23 stick figures, calender and try to relate with the scene)
+		Frame2: Solution
+			@so if there are 23 people lets fix each people 1 by 1
+			@there are 365 days so for first person is having a choice of 365 days, the next 364 and so on, so putting it mathematically it will be like 
+			/
+			365/365 x 364/365 x 363/365 ......
+			/
+			@this probability is more than 50%, and when there are 75 people its almost 90+% **
+$ i am thinking of not adding scene 5 as there is almost no relation $
+Scene 5: Sorting
+		Frame1: New idea
+			@Now you must be thinking is that all permutations and combinations is useful for?, well no, not really. Lets take a situation you are familiar with, sorting
+			@ Imagine your playlist is totally shuffled and you want to know how unsorted it is, this is where inversions come into play
+
+			@example lets take original sorted order as [1,2,3,4]
+			and now it is [3,1,4,2]
+			we will compare every pair 
+			select the first element (3)
+			[3,1,4,2]--> swap (3,1) as 3 > 1 (+1 inversion)
+			[1,3,4,2] then compare 3(2nd element) with 4 (3rd element) 3<4 so no inversions
+			[1,3,4,2]--> then swap (3,2) as 3 > 2 (+1 inversion)
+			[1,2,4,3]--> since 1 and 2 are correctly place we will select 4, swap (4,3) as 4>3 (+1 inversion)
+		Frame2: Concluding Sorting
+			@And if you are curious there is even a formula to calculate the total number of permutations with a specific inverse count
+			* length of set n with k inversions
+			p(n,k)=p(n-1,k)+p(n-1,k-1)+.....+p(n-1,k-(n-1))
+			*
+
+Scene 6: Closing
+		Frame:
+			@so i hope you liked the video and learnt something new,,, $yada yada yada$
+
 
 
 
